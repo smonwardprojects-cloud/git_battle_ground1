@@ -1,6 +1,6 @@
 <?php
 
-echo "can be anything , change in third line;
+echo "can be anything , change without commit;
 echo "hello";
 echo "bye";
 
