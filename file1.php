@@ -5,4 +5,5 @@ echo "hello";
 echo "bye";
 
 echo "1";
+echo "2";
 ?>
