@@ -1,6 +1,6 @@
 <?php
 
-echo "can be anything here, no way 123";
+echo "can be anything here, no changes";
 echo "hello";
 echo "bye";
 
