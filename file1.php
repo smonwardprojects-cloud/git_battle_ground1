@@ -1,6 +1,6 @@
 <?php
 
-echo "can be anything , change without commit;
+echo "can be anything , change without commit";
 echo "hello";
 echo "bye";
 
@@ -13,4 +13,5 @@ echo "6";
 echo "7";
 echo "8";
 echo "9";
+echo "i just change something and want to commit";
 ?>
