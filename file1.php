@@ -14,4 +14,5 @@ echo "7";
 echo "8";
 echo "9";
 echo "i just change something and want to commit";
+echo "test for merge master";
 ?>
