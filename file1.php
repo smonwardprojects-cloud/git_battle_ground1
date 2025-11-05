@@ -3,6 +3,7 @@
 echo "can be anything , change without commit";
 echo "hello";
 echo "bye";
+echo "merge to feature branch without conflict";
 
 echo "1";
 echo "2";
