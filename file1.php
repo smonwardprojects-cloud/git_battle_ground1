@@ -14,7 +14,9 @@ echo "6";
 echo "7";
 echo "8";
 echo "9";
+echo "10";
 echo "i just change something and want to commit";
 echo "test for merge master";
 echo "merge to feature branch with conflict";
+echo "feature branch";
 ?>
