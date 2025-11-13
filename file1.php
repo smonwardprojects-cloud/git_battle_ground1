@@ -19,4 +19,5 @@ echo "i just change something and want to commit";
 echo "test for merge master";
 echo "merge to feature branch with conflict";
 echo "feature branch";
+echo "feature 1.0.0";
 ?>
