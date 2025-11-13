@@ -22,4 +22,5 @@ echo "merge to feature branch with conflict";
 echo "feature branch";
 echo "mini feature branch";
 echo "feature verification";
+echo "feature 1.0.0";
 ?>
