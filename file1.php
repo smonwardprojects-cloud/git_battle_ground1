@@ -25,4 +25,6 @@ echo "feature verification";
 echo "feature 1.0.0";
 echo "feature 1.0.1";
 echo "feature 1.0.2";
+echo "master1";
+echo "HF01";
 ?>
