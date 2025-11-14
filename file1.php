@@ -5,4 +5,5 @@ echo "hello";
 echo "bye";
 echo "master1";
 echo "HF01";
+echo "HF02";
 ?>
