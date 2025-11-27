@@ -24,4 +24,5 @@ echo "testing111";
 echo "testing111a";
 echo "testing syncing";
 echo "test log";
+echo "test log2";
 ?>
