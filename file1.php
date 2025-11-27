@@ -23,4 +23,5 @@ echo "feature 1.0.0";
 echo "testing111";
 echo "testing111a";
 echo "testing syncing";
+echo "test log";
 ?>
