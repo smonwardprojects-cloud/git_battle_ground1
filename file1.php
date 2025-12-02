@@ -41,5 +41,6 @@ echo "test log2";
 echo "test squash1";
 echo "test squash2";
 echo "test squash3";
+echo "test squash4";
 
 ?>
