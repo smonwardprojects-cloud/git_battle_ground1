@@ -33,4 +33,13 @@ echo "HF03-1";
 echo "HF03-2";
 echo "HF05-1";
 echo "HF05-2";
+echo "testing111";
+echo "testing111a";
+echo "testing syncing";
+echo "test log";
+echo "test log2";
+echo "test squash1";
+echo "test squash2";
+echo "test squash3";
+
 ?>
