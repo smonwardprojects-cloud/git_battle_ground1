@@ -1,6 +1,7 @@
 <?php
 echo "omg";
 echo "wow";
+echo "hihihi";
 echo "oh no";
 echo "hmm";
 echo "123";
