@@ -44,5 +44,6 @@ echo "test squash3";
 echo "test squash4";
 echo "test squash5";
 echo "test squash6";
+echo "abcd new commit";
 
 ?>
