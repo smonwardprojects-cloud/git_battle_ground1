@@ -12,5 +12,6 @@ echo "101112";
 echo "testing merge";
 echo "testing merge with no commit";
 echo "testing merge with no commit no create new commit and fast forward";
+echo "hohoho";
 
 ?>
